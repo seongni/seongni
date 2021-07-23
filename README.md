@@ -1,6 +1,9 @@
 ### Hello, this is Seongni 🐧
 🇰🇷
-🐧 ENFP, polyglot 🇺🇸 🇪🇸
+
+🐧 ENFP
+
+polyglot 🇺🇸 🇪🇸
 
 💖 Digital Forensics
 
