@@ -1,10 +1,6 @@
 ### Hello, this is Seongni 🐧
 
-👩 Korean, English, Spanish
-
 💖 Digital Forensics
-
-💻 C, Java, C++, Python
 
 🏫 2020.2 ~ Ajou University, Cyber Security 20'
 
